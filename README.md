@@ -120,8 +120,8 @@ For script 4, ensure a valid log file is available. If `/var/log/syslog` is not 
 
 ```bash
 # Clone repository
-git clone https://github.com/[yourusername]/oss-audit-24bce10843
-cd oss-audit-24bce10843
+git clone https://github.com/ujjawal24bce10326-code/-Open-Source-Software---Evaluated-Course-Project/tree/main
+cd oss-audit-24BCE10326
 
 # Make scripts executable
 chmod +x *.sh
