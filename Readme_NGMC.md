@@ -1,7 +1,7 @@
-# oss-audit-[apna-reg-no]
+# oss-audit-[24BCE10326]
 
-**Name:** Naam likho
-**Register No:** 24BCE
+**Name:** Ujjawal Pandey
+**Register No:** 24BCE10326
 **Course:** Open Source Software | VIT
 **Chosen Software:** Git
 
